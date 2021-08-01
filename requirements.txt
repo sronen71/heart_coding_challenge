@@ -1,0 +1,9 @@
+zarr
+numpy
+IPython
+matplotlib
+scipy
+numpy
+SimpleITK
+
+
